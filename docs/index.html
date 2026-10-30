@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#121923">
+  <title>MURAL HISTORY — Kabul, 1972</title>
+  <style>
+    :root { color-scheme: dark; font-family: system-ui, sans-serif; color: #f4eadb; background: #121923; }
+    * { box-sizing: border-box; }
+    body { margin: 0; }
+    main { width: min(100% - 40px, 1080px); margin: 48px auto; }
+    .brand { margin: 0 0 28px; color: #d6b78a; font-size: 13px; font-weight: 700; letter-spacing: .18em; }
+    .meta { margin: 0 0 10px; color: #b7b8ba; font-size: 14px; }
+    h1 { max-width: 850px; margin: 0 0 28px; font-family: Georgia, serif; font-size: clamp(28px, 4.7vw, 48px); font-weight: 400; line-height: 1.16; }
+    video { display: block; width: 100%; aspect-ratio: 16 / 9; background: #080b10; border: 1px solid #36404b; border-radius: 12px; }
+    .actions { display: flex; flex-wrap: wrap; align-items: center; gap: 14px; margin-top: 24px; }
+    .button { display: inline-flex; padding: 13px 20px; border-radius: 8px; color: #151a20; background: #e1bd87; font-weight: 650; text-decoration: none; }
+    .button:hover { background: #f0d0a0; }
+    .secondary { color: #e1bd87; padding: 12px 4px; text-underline-offset: 5px; }
+    a:focus-visible, video:focus-visible { outline: 3px solid #f3d7a6; outline-offset: 5px; }
+    .note { color: #b7b8ba; font-size: 14px; line-height: 1.7; }
+    footer { margin-top: 36px; border-top: 1px solid #36404b; padding-top: 20px; }
+    footer p { margin: 0 0 8px; }
+    @media (max-width: 540px) { main { width: calc(100% - 28px); margin: 28px auto; } .brand { margin-bottom: 24px; } h1 { margin-bottom: 20px; } .button { width: 100%; justify-content: center; } }
+  </style>
+</head>
+<body>
+  <main>
+    <p class="brand">MURAL HISTORY</p>
+    <p class="meta">Кабул, 1972 · 1 минута 30 секунд</p>
+    <h1 lang="en">What happened inside a Kabul hashish shop?</h1>
+    <video controls playsinline preload="metadata" poster="poster.png" aria-label="Ролик о лавке Рахима в Кабуле, с озвучкой и субтитрами">
+      <source src="kabul_90s.mp4" type="video/mp4">
+      Ваш браузер не поддерживает встроенное видео. <a href="kabul_90s.mp4" download>Скачайте MP4.</a>
+    </video>
+    <div class="actions">
+      <a class="button" href="kabul_90s.mp4" download="MURAL_HISTORY_Kabul_90s.mp4">Скачать видео · 10,7 МБ</a>
+      <a class="secondary" href="subtitles.srt" download>Скачать субтитры SRT</a>
+    </div>
+    <p class="note">Озвучка на английском с русскими вставками. Субтитры уже включены в видео. Формат: MP4, 720p.</p>
+    <footer class="note">
+      <p>Рахим и бытовая история — художественная реконструкция.</p>
+      <p>Голос: Daniel · Eleven Multilingual v2.</p>
+    </footer>
+  </main>
+</body>
+</html>
