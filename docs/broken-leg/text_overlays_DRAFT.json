@@ -1,0 +1,362 @@
+[
+  {
+    "segment": 1,
+    "block": 1,
+    "start": 0.0,
+    "end": 2.5,
+    "text": "ONE BAD STEP",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 2,
+    "block": 1,
+    "start": 4.866666666666666,
+    "end": 7.766666666666667,
+    "text": "30,000 YEARS AGO",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 3,
+    "block": 1,
+    "start": 13.266666666666667,
+    "end": 15.033333333333335,
+    "text": "GAME OVER?",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 4,
+    "block": 1,
+    "start": 15.033333333333333,
+    "end": 17.933333333333334,
+    "text": "YEARS AFTER THE INJURY",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 5,
+    "block": 1,
+    "start": 24.266666666666666,
+    "end": 26.766666666666666,
+    "text": "FIRST: GET HOME",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 7,
+    "block": 2,
+    "start": 44.233333333333334,
+    "end": 47.68333333333334,
+    "text": "THE SAME PATH. NEW RULES.",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 8,
+    "block": 2,
+    "start": 59.7,
+    "end": 62.2,
+    "text": "WHO COMES BACK?",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 9,
+    "block": 2,
+    "start": 68.13333333333334,
+    "end": 70.63333333333334,
+    "text": "HELP ARRIVES",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 10,
+    "block": 2,
+    "start": 83.1,
+    "end": 85.6,
+    "text": "HOME ≠ HEALED",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 11,
+    "block": 2,
+    "start": 93.56666666666666,
+    "end": 96.06666666666666,
+    "text": "THE NEXT PROBLEM",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 12,
+    "block": 3,
+    "start": 104.46666666666667,
+    "end": 107.91666666666667,
+    "text": "NOT ALL BREAKS ARE EQUAL",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 13,
+    "block": 3,
+    "start": 116.7,
+    "end": 119.60000000000001,
+    "text": "SKIN IS A BARRIER",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 14,
+    "block": 3,
+    "start": 130.13333333333333,
+    "end": 133.03333333333333,
+    "text": "WEEKS, NOT ONE NIGHT",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 15,
+    "block": 3,
+    "start": 146.43333333333334,
+    "end": 148.93333333333334,
+    "text": "TOMORROW. AND TOMORROW.",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 16,
+    "block": 3,
+    "start": 162.33333333333334,
+    "end": 165.23333333333335,
+    "text": "WHO DOES YOUR JOB?",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 17,
+    "block": 4,
+    "start": 173.63333333333333,
+    "end": 176.53333333333333,
+    "text": "ONE INJURY. MORE WORK.",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 18,
+    "block": 4,
+    "start": 186.93333333333334,
+    "end": 189.83333333333334,
+    "text": "CARE HAS A COST",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 19,
+    "block": 4,
+    "start": 200.23333333333332,
+    "end": 203.13333333333333,
+    "text": "LESS MOBILE ≠ LESS HUMAN",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 20,
+    "block": 4,
+    "start": 215.73333333333332,
+    "end": 218.63333333333333,
+    "text": "CARE CAN LEAVE CLUES",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 21,
+    "block": 4,
+    "start": 230.83333333333334,
+    "end": 233.73333333333335,
+    "text": "SHOW ME THE BONES",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 22,
+    "block": 5,
+    "start": 241.7,
+    "end": 244.2,
+    "text": "SHANIDAR CAVE · IRAQ",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 23,
+    "block": 5,
+    "start": 257.06666666666666,
+    "end": 259.56666666666666,
+    "text": "SEVERAL INJURIES. HEALING.",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 24,
+    "block": 5,
+    "start": 273.76666666666665,
+    "end": 276.66666666666663,
+    "text": "SURVIVAL LEAVES A TRACE",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 25,
+    "block": 5,
+    "start": 286.7,
+    "end": 289.59999999999997,
+    "text": "SUPPORT IS AN INFERENCE",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 26,
+    "block": 5,
+    "start": 298.8,
+    "end": 301.7,
+    "text": "THEN THERE IS BORNEO…",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 27,
+    "block": 6,
+    "start": 311.3333333333333,
+    "end": 315.3333333333333,
+    "text": "BORNEO · ABOUT 31,000 YEARS AGO",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 28,
+    "block": 6,
+    "start": 325.46666666666664,
+    "end": 328.91666666666663,
+    "text": "MISSING IS ONLY THE START",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 29,
+    "block": 6,
+    "start": 336.3333333333333,
+    "end": 339.7833333333333,
+    "text": "6–9 YEARS · RESEARCH ESTIMATE",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 30,
+    "block": 6,
+    "start": 347.6333333333333,
+    "end": 350.1333333333333,
+    "text": "SURGICAL AMPUTATION?",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 31,
+    "block": 6,
+    "start": 357.7,
+    "end": 361.15,
+    "text": "WHAT WE STILL DON'T KNOW",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 32,
+    "block": 7,
+    "start": 371.03333333333336,
+    "end": 373.93333333333334,
+    "text": "SURGERY OR SEVERE TRAUMA?",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 33,
+    "block": 7,
+    "start": 382.73333333333335,
+    "end": 385.6333333333333,
+    "text": "THE ORIGINAL TEAM DISAGREED",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 34,
+    "block": 7,
+    "start": 395.23333333333335,
+    "end": 398.1333333333333,
+    "text": "HEALING ≠ THE WHOLE STORY",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 35,
+    "block": 7,
+    "start": 408.56666666666666,
+    "end": 411.46666666666664,
+    "text": "THE TREATMENT IS UNKNOWN",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 36,
+    "block": 7,
+    "start": 422.3,
+    "end": 425.2,
+    "text": "BACK TO OUR TRAVELLER",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 37,
+    "block": 8,
+    "start": 434.8333333333333,
+    "end": 437.3333333333333,
+    "text": "NO GUARANTEED ENDING",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 38,
+    "block": 8,
+    "start": 449.3666666666667,
+    "end": 453.9166666666667,
+    "text": "ONE STEP WAS NOT THE WHOLE STORY",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 39,
+    "block": 8,
+    "start": 463.1,
+    "end": 466.0,
+    "text": "GAME OVER? NOT ALWAYS.",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 40,
+    "block": 8,
+    "start": 477.8,
+    "end": 480.3,
+    "text": "SOMEONE CAME BACK",
+    "style": "title",
+    "timing_status": "estimated"
+  },
+  {
+    "segment": 41,
+    "block": 8,
+    "start": 490.7,
+    "end": 493.2,
+    "text": "ANCIENT BERGMAN",
+    "style": "title",
+    "timing_status": "estimated"
+  }
+]

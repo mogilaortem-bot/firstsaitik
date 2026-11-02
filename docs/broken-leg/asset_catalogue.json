@@ -1,0 +1,194 @@
+[
+  {
+    "role": "01",
+    "asset": "01",
+    "path": "assets/01.png",
+    "reused": false
+  },
+  {
+    "role": "02",
+    "asset": "02",
+    "path": "assets/02.png",
+    "reused": false
+  },
+  {
+    "role": "03",
+    "asset": "23",
+    "path": "assets/23.png",
+    "reused": true
+  },
+  {
+    "role": "04",
+    "asset": "04",
+    "path": "assets/04.png",
+    "reused": false
+  },
+  {
+    "role": "05",
+    "asset": "04",
+    "path": "assets/04.png",
+    "reused": true
+  },
+  {
+    "role": "06",
+    "asset": "06",
+    "path": "assets/06.png",
+    "reused": false
+  },
+  {
+    "role": "07",
+    "asset": "07",
+    "path": "assets/07.png",
+    "reused": false
+  },
+  {
+    "role": "08",
+    "asset": "08",
+    "path": "assets/08.png",
+    "reused": false
+  },
+  {
+    "role": "09",
+    "asset": "09",
+    "path": "assets/09.png",
+    "reused": false
+  },
+  {
+    "role": "10",
+    "asset": "10",
+    "path": "assets/10.png",
+    "reused": false
+  },
+  {
+    "role": "11",
+    "asset": "11",
+    "path": "assets/11.png",
+    "reused": false
+  },
+  {
+    "role": "12",
+    "asset": "12",
+    "path": "assets/12.png",
+    "reused": false
+  },
+  {
+    "role": "13",
+    "asset": "13",
+    "path": "assets/13.png",
+    "reused": false
+  },
+  {
+    "role": "14",
+    "asset": "14",
+    "path": "assets/14.png",
+    "reused": false
+  },
+  {
+    "role": "15",
+    "asset": "15",
+    "path": "assets/15.png",
+    "reused": false
+  },
+  {
+    "role": "16",
+    "asset": "08",
+    "path": "assets/08.png",
+    "reused": true
+  },
+  {
+    "role": "17",
+    "asset": "17",
+    "path": "assets/17.png",
+    "reused": false
+  },
+  {
+    "role": "18",
+    "asset": "18",
+    "path": "assets/18.png",
+    "reused": false
+  },
+  {
+    "role": "19",
+    "asset": "19",
+    "path": "assets/19.png",
+    "reused": false
+  },
+  {
+    "role": "20",
+    "asset": "20",
+    "path": "assets/20.png",
+    "reused": false
+  },
+  {
+    "role": "21",
+    "asset": "21",
+    "path": "assets/21.png",
+    "reused": false
+  },
+  {
+    "role": "22",
+    "asset": "22",
+    "path": "assets/22.png",
+    "reused": false
+  },
+  {
+    "role": "23",
+    "asset": "23",
+    "path": "assets/23.png",
+    "reused": false
+  },
+  {
+    "role": "24",
+    "asset": "24",
+    "path": "assets/24.png",
+    "reused": false
+  },
+  {
+    "role": "25",
+    "asset": "25",
+    "path": "assets/25.png",
+    "reused": false
+  },
+  {
+    "role": "26",
+    "asset": "25",
+    "path": "assets/25.png",
+    "reused": true
+  },
+  {
+    "role": "27",
+    "asset": "24",
+    "path": "assets/24.png",
+    "reused": true
+  },
+  {
+    "role": "28",
+    "asset": "08",
+    "path": "assets/08.png",
+    "reused": true
+  },
+  {
+    "role": "29",
+    "asset": "29",
+    "path": "assets/29.png",
+    "reused": false
+  },
+  {
+    "role": "30",
+    "asset": "13",
+    "path": "assets/13.png",
+    "reused": true
+  },
+  {
+    "role": "31",
+    "asset": "07",
+    "path": "assets/07.png",
+    "reused": true
+  },
+  {
+    "role": "32",
+    "asset": "32",
+    "path": "assets/32.png",
+    "reused": false
+  }
+]

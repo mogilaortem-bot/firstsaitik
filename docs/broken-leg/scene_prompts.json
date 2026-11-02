@@ -1,0 +1,107 @@
+{
+  "common": "Create ONE finished full-bleed 16:9 landscape keyframe for Ancient Bergman, an English illustrated history video. Use the reference as the STYLE and CHARACTER master, not as a layout to repeat. Keep the original shaggy dark-brown-haired white-faced traveller, simple expressive black oval eyes, thin black stick arms/legs, ragged one-shoulder brown hide tunic whenever requested. Keep companion A dark wavy bob/sage wrap and companion B auburn hair/ochre hide whenever requested. Slightly more detailed than a basic explainer: beautifully controlled organic black ink contours, material details on stone/grass/reeds/hides, subtle paper grain, coherent layered depth and 2-3 tone cel shading, expressive uncluttered faces, restrained cinematic warm/cool lighting. All artwork stays recognizable simple hand-drawn 2D cartoons, NOT photorealistic, NOT glossy 3D, NOT anime. No border, no panels unless scene explicitly asks schematic symbols, no watermark or UI. NO LETTERS OR WORDS OR NUMERALS; all typography is added in editing. All injury scenes non-graphic. Match character anatomy and injury continuity exactly as scene describes.\nSCENE: ",
+  "scenes": [
+    {
+      "id": "01",
+      "scene": "Extreme low close-up of the original traveller's two thin black legs and small rounded black feet at the instant one foot slips off a rain-slick grey stone beside a shallow stream. Cropped ragged brown tunic at top left. One splash, scattered pebbles, forceful diagonal composition. Both legs completely unwrapped, NO supports or bandages at this point in the story. No blood or visible fracture. Cool blue shadow with amber afternoon edge light. Blank darker upper-right for later title. A split second BEFORE the fall, not a medical picture."
+    },
+    {
+      "id": "02",
+      "scene": "Medium close view: the main traveller sits on a rocky slope after a fall, worried startled expression, left hand on the ground, right hand resting near his thigh. His injured LEFT leg extends toward viewer right, entirely unwrapped: a thin black cartoon leg with just two red pain zigzags nearby, no visible fracture or deformation. The other leg naturally bent. Clear face in upper-left, sunset hills in background. NO splint yet, NO bandage, NO medical care shown. Blank sky at upper-right. Emphasize vulnerable surprise with gentle dry cartoon humor, not screaming agony."
+    },
+    {
+      "id": "04",
+      "scene": "Very wide cinematic panorama viewed from slightly above: main traveller tiny at lower-left beside rocky stream with his unwrapped leg at rest. Across a broad uneven grass valley, a small rock shelter and a very small warm campfire at upper-right. Diagonal river, broken rock ledges and a steep path make distance visible. Carefully layered cool violet landscape and orange sunset. No map symbols, no lines, no arrows. Human should occupy less than 12% of image height. Strong sense that an ordinary walk has become difficult. No wrap or splint yet."
+    },
+    {
+      "id": "06",
+      "scene": "Story detail close-up on an abandoned small woven gathering basket lying on its side on rocky ground, a few berries and grass stems spilled out. In the middle distance, the two companions stop and turn attentively toward a tiny seated main traveller far away. Companion A: short dark wavy bob, muted sage rough tunic; companion B: taller auburn tousled hair, ochre hide. Same white circular cartoon faces and black thin limbs. Sunset grazing grass light, carefully drawn basket fibers but simple uncluttered story. No text."
+    },
+    {
+      "id": "07",
+      "scene": "Medium eye-level caring encounter after the fall: main traveller seated at left on a rocky path, unwrapped injured left leg resting and entirely hidden by a small folded hide so no medical detail. His two companions approach from right and kneel nearby; short dark wavy bob companion in sage wrap with a concerned face offers an open hand, taller auburn ochre companion looks toward the distant shelter. Main traveller visibly relieved. Do NOT show a lifting method or treatment procedure. Detailed plants and stone, readable warm/cool cinematic composition. Space at top for title."
+    },
+    {
+      "id": "09",
+      "scene": "Original clean explanatory cartoon diagram on warm off-white paper, with three separated simple cream-colored long-bone symbols horizontally: intact bone on left, bone with a thin aligned crack at center, bone with a separated displaced break on right. Diagrams are schematic generic bones, not a reconstructed archaeological specimen, no flesh, blood or wound. Small worried original shaggy white-faced traveller at lower-left looks at these three possibilities. Inked irregular outlines, two-tone shadows, subdued sage background accents. Large empty strip at top for labels added later. No text or digits in image. One continuous educational composition, not comic panels."
+    },
+    {
+      "id": "10",
+      "scene": "Original clean educational conceptual illustration of skin as a barrier, not a treatment guide. On warm pale paper, a broad simplified tan curved barrier across center with a small gap, a few purple round abstract germ icons outside it and an orange warning symbol near gap, no blood or realistic tissue. A small magnifying circle at right contains simple tiny vessel/nerve line icons to signify deeper structures, no labels. Tiny concerned main traveller at lower left. White background breathing space top-third for later typography. Same ink and paper aesthetic as reference, clean flat readable graphic. No clinical details, no text."
+    },
+    {
+      "id": "11",
+      "scene": "A playful modern explanatory TIME illustration, clearly outside the prehistoric story: three tall plain blank cream calendar sheets hung in a row against muted slate blue, no printed numbers or letters at all. One little orange moon, one yellow sun, and a modest horizontal trail of tiny dot marks suggest many days. The original traveller sits at bottom right in the same grass bed and tan leg wrap as reference, growing bored. Keep calendars visually abstract, NOT objects actually present in the ancient camp. Big empty upper-left for later overlay of the modern medical comparison. Bold clean organic outlines, minimal shapes, carefully controlled texture."
+    },
+    {
+      "id": "12",
+      "scene": "Intimate medium shot at the fictional shelter: original traveller sits on grass bedding, tan wrapped LEFT shin with wooden supports pointed right, looking with weary disbelief at an empty broad leaf used as a serving surface on a flat rock. No ceramics or utensils. Cozy warm light on hands and face, other characters absent, small campfire glow offscreen, cool cave back. Beautifully drawn dried grass, leather, rock texture, but uncluttered face silhouette. Top-left darker rock left blank for text. Quiet dry humor rather than misery."
+    },
+    {
+      "id": "13",
+      "scene": "Broad morning camp activity scene beneath rock overhang. Original traveller sits at far-left recovering with wrapped left shin on grass bedding. Short dark wavy-haired companion in sage wrap carries a bundle of firewood at center. Tall auburn-haired companion in ochre hide repairs a simple branch-and-hide windbreak at right. A few gathering supplies near shelter, no metal or pottery. Show work redistributed without turning disabled traveller into a burden caricature. Golden daylight, layered olive foliage and distant mauve hills, visible material texture, large readable silhouettes, no text."
+    },
+    {
+      "id": "14",
+      "scene": "Warm close emotional story illustration: companion A with short dark wavy bob and muted sage rough wrap offers a folded broad leaf with a small portion of ordinary berries and cooked food to seated traveller. Main traveller has tired grateful eyes and a small smile. His tan wrapped LEFT shin visible at bottom-right resting on grass. Their hands almost meet at center, focus on care and repeated effort. Soft warm fire reflection, cooler shadowed cave, no modern bowl, tools or labels. Preserve white simple faces and sticklike limbs. Empty dark upper-left for text."
+    },
+    {
+      "id": "15",
+      "scene": "Main traveller in daytime sitting comfortably on grass bedding at left with his wrapped LEFT leg supported on bedding, repairing a small woven basket in his lap, hands stylized clearly, no real detailed craft instructions. A younger companion sits at right listening as he points to a landscape feature outside the shelter. Two people only; main traveller retains agency, humorous slightly proud expression. Basket reeds, hide folds, twigs and textured rock foreground, softly layered green scenery. No text. Blank top quarter for typography."
+    },
+    {
+      "id": "17",
+      "scene": "Wide establishing scene of a large limestone cave entrance high in the rugged Zagros mountains, representing the setting of Shanidar Cave in northern Iraq, NOT an exact archaeological reconstruction. Detailed craggy grey/tan rock, sparse green hillside plants, deep cool cave shadow, hazy sunlit mountain ridges beyond. At lower-left tiny stylized stout prehistoric Neanderthal silhouettes gathering near entrance, faces too small for detail. No original main traveller, no modern buildings, no prehistoric text or false markings, no labels or map. Room across sky for site name added in editing."
+    },
+    {
+      "id": "18",
+      "scene": "Clean non-graphic case illustration for Shanidar 1, DISTINCT from original traveller: an older stout cartoon Neanderthal with broad oval off-white face, pronounced brow, grey-brown shaggy hair, dark olive rough hide drape, upright seated posture with a calm thoughtful expression. Right arm visibly small and resting close to body under drape, but no detailed amputated limb or surgical wound, both leg areas modestly covered. Place him at left on warm parchment; at right three isolated simple symbolic icons of an eye, an arm and a foot, each with a small amber dot, not diagnostic radiographs. No injury process, no blood, no text or numbers. Scientific explainer aesthetic, generous blank top and right margins."
+    },
+    {
+      "id": "19",
+      "scene": "Large simple schematic long bone on a warm off-white museum-like paper background; subtle rounded healed bony callus around an old fracture near mid-shaft, smoothly connected ends. Beside it a smaller outline drawing of the same generic bone with an unhealed thin crack for comparison, no flesh, blood or gore. This is a generic teaching model of healing, NOT an actual Shanidar specimen or TB1 specimen. No labels baked in. Soft two-tone cream shading, clear dark hand-ink outlines, a small magnifying icon, airy composition. Maintain Ancient Bergman sophisticated paper cartoon style."
+    },
+    {
+      "id": "20",
+      "scene": "Illustrative compassionate Neanderthal cave scene, NOT the fictional traveller's camp: older stout Neanderthal with grey-brown hair, off-white broad round face, heavy simple brow and dark olive hide drape sits upright near cave entrance, right arm modestly kept under drape. Another adult Neanderthal with short dark hair and rust-colored hide sits at his side in conversation, offering food on a leaf. Older person alert and involved. Pale Zagros mountains visible beyond, no sea or jungle. Detailed limestone and grasses, warm reflected light. Two figures, no injured limb close-up, no medical equipment, no text. Distinguish both faces and clothing from original main hero."
+    },
+    {
+      "id": "21",
+      "scene": "Wide cinematic scene of a limestone cave in tropical East Kalimantan, Borneo: dense layered rainforest leaves, vines, tall trees, misty limestone pinnacles, humid soft daylight filtering into a dark cave entrance. No human surgery and no skeleton shown. In foreground tiny contemporary archaeologist silhouette in neutral field shirt and headlamp stands by entrance, with a notebook, clearly a modern research scene. Scenic original illustration, not an exact plan or historical reconstruction of Liang Tebo. Same elegant hand-inked 2D texture, deep emerald/teal colors with warm limestone. Leave upper-left blank shadow/sky for later site caption."
+    },
+    {
+      "id": "22",
+      "scene": "Respectful non-graphic archaeological excavation illustration INSIDE a limestone cave in Borneo. A modern archaeologist in plain teal field shirt with round stylized white face kneels next to a shallow rectangular excavation area, brushing earth carefully. Show only a few pale small bone fragments and a gently suggested incomplete long bone in the trench, NOT a full inaccurate skeleton, no body or flesh. Small neutral blank field notebook and measuring stick with simple tick marks but no legible digits, indirect daylight. Foreground detailed brown sediment and limestone, cool shadows, museum explainer tone. Clearly an illustrative reconstruction, no text. No prehistoric traveller in this scene."
+    },
+    {
+      "id": "23",
+      "scene": "Very clean abstract archaeological evidence keyframe, on dark teal tabletop: two neutral cream long-bone fragments side by side under a single magnifying lens, gently rounded remodeled ends suggested by simple soft contours. These are GENERIC illustrative bone fragments, NOT an exact depiction of TB1, no anatomical labels, no blood or flesh. To right, a long row of seven small pale circles suggests elapsed years, no printed digits or words. Original confident ink with simple restrained stipple texture, dramatic warm light focus, generous upper-left negative space. Non-graphic educational drawing, suitable as a mystery teaser."
+    },
+    {
+      "id": "24",
+      "scene": "Cinematic overhead scholarly evidence table in contemporary archaeology: plain field notebook opened to BLANK pages, two generic small cream bone fragments on a dark teal cloth, a magnifying glass and a graphite pencil, no scalpel, no surgery or treatment scene. At upper right the original dark-brown shaggy white-faced traveller appears only as a tiny educational presenter leaning into frame with one raised eyebrow and a thoughtful hand to chin. Paper grain, soft side lighting, polished organic ink. Leave center and upper-left clear for later research labels. No generated words or numbers. Main idea: interpreting limited evidence, not witnessing an operation."
+    },
+    {
+      "id": "25",
+      "scene": "Single clean scientific debate composition on pale parchment: two cartoon contemporary researchers on opposite sides of one table; left is a woman with dark bob and muted teal field shirt, right a man with short grey hair and mustard field shirt, both white stylized circular faces and respectful focused expressions. Between them a single large generic cream long-bone fragment rests under a magnifier, each points gently to the evidence with pencil, not at each other. Above left and right, two completely blank simple rectangular cards for theory labels to be added later. No writing, no political conflict, no lab coat, no medical procedure, no accurate archaeological specimen implied. Detailed paper and glass texture with clear simple silhouettes."
+    },
+    {
+      "id": "29",
+      "scene": "Night inside the fictional camp. Main traveller awake on grass bedding under a simple tan hide blanket; shaggy dark brown hair and white round face visible, eyes worried but reflective. His already wrapped LEFT shin extends from blanket toward viewer right, safe and still, no blood. Very small fading orange campfire at far-right; beyond entrance cool deep-indigo landscape and crescent moon. Two companions sleeping in background as small quiet shapes, not ignoring a call for help. Detailed soft straw, rock contours and warm/cool lighting, contemplative scene rather than horror. Upper-left shadow provides space for text."
+    },
+    {
+      "id": "32",
+      "scene": "Final humorous warm camp close shot. Main traveller seated at left, original brown shaggy hair and brown one-shoulder hide tunic, left shin still resting in tan wrap at bottom-right edge. He half-raises a finger with a sheepish embarrassed grin as if suggesting another shortcut, then thinks better of it. Companion A on right with dark wavy bob and sage rough wrap holds food on a broad leaf, gives him a dry amused raised eyebrow, kindly expression. Golden late-afternoon sunshine, fine background grass/stone details, cozy human connection, charming comedic timing. Two characters only. No text, no modern objects, no healed-by-magic leap or standing on injured leg."
+    }
+  ],
+  "aliases": {
+    "16": "08",
+    "26": "25",
+    "27": "24",
+    "28": "08",
+    "30": "13",
+    "31": "07",
+    "03": "23",
+    "05": "04"
+  }
+}

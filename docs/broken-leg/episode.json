@@ -1,0 +1,301 @@
+{
+  "channel": "Ancient Bergman",
+  "episode_id": "broken-leg",
+  "language": "English",
+  "title": "You Broke a Leg 30,000 Years Ago. Now What?",
+  "thumbnail_text": "GAME OVER?",
+  "status": "production_in_progress_awaiting_new_narration",
+  "blocks": [
+    {
+      "id": 1,
+      "file": "01_one_bad_step",
+      "title": "One bad step",
+      "segments": [
+        {
+          "asset": "01",
+          "text": "ONE BAD STEP",
+          "voice": "One bad step. A crack. Your leg will not hold you."
+        },
+        {
+          "asset": "02",
+          "text": "30,000 YEARS AGO",
+          "voice": "Now put that moment thirty thousand years in the past. No ambulance. No hospital. And the sun is going down."
+        },
+        {
+          "asset": "02",
+          "text": "GAME OVER?",
+          "voice": "Game over? Not necessarily."
+        },
+        {
+          "asset": "03",
+          "text": "YEARS AFTER THE INJURY",
+          "voice": "Archaeologists have found a person who survived a devastating leg injury for years. Some researchers think the damaged limb was deliberately amputated."
+        },
+        {
+          "asset": "04",
+          "text": "FIRST: GET HOME",
+          "voice": "We will get to that remarkable case. First, our imaginary traveller has a more immediate problem. The shelter is over there. He is over here. And the space between them has suddenly become enormous."
+        },
+        {
+          "asset": "02",
+          "text": "",
+          "voice": "He checks the leg again. Still broken. This is going to complicate the afternoon."
+        }
+      ],
+      "word_count": 105,
+      "estimated_start_seconds": 0.0,
+      "estimated_end_seconds": 44.233
+    },
+    {
+      "id": 2,
+      "file": "02_getting_home",
+      "title": "The landscape changes",
+      "segments": [
+        {
+          "asset": "05",
+          "text": "THE SAME PATH. NEW RULES.",
+          "voice": "A few minutes ago, that slope was a shortcut. Now it is a wall. The stream was somewhere to drink. Now it is an obstacle. Nothing in the landscape has changed. Your ability to cross it has."
+        },
+        {
+          "asset": "06",
+          "text": "WHO COMES BACK?",
+          "voice": "Our traveller is fictional. The problem is real: someone has to notice that you are missing before they can help."
+        },
+        {
+          "asset": "07",
+          "text": "HELP ARRIVES",
+          "voice": "In our story, two companions come back. One hears the shouting. The other sees the abandoned basket. They are not arriving with a magic cure. They are arriving with time, effort, and another pair of hands."
+        },
+        {
+          "asset": "08",
+          "text": "HOME ≠ HEALED",
+          "voice": "Eventually, our traveller makes it back to shelter with help. The landscape has not become easier. He simply no longer has to cross it alone."
+        },
+        {
+          "asset": "08",
+          "text": "THE NEXT PROBLEM",
+          "voice": "For one glorious moment, being back at camp feels like the end of the problem. Then you look down. The leg has come home with you."
+        }
+      ],
+      "word_count": 144,
+      "estimated_start_seconds": 44.233,
+      "estimated_end_seconds": 104.467
+    },
+    {
+      "id": 3,
+      "file": "03_the_dangers",
+      "title": "Not every break is the same",
+      "segments": [
+        {
+          "asset": "09",
+          "text": "NOT ALL BREAKS ARE EQUAL",
+          "voice": "A broken leg is not one single injury. A relatively stable fracture and a badly displaced break do not create the same problems. Damage to surrounding tissue matters too."
+        },
+        {
+          "asset": "10",
+          "text": "SKIN IS A BARRIER",
+          "voice": "If the skin is broken, germs can enter the wound. Serious fractures can also threaten nearby blood vessels and nerves. Without modern treatment, those complications could make a bad situation much worse."
+        },
+        {
+          "asset": "11",
+          "text": "WEEKS, NOT ONE NIGHT",
+          "voice": "And even an injury that heals does not heal overnight. Today, the NHS describes six to twelve weeks as a usual healing range for a broken leg, sometimes longer. That is a modern comparison, not an ancient recovery schedule."
+        },
+        {
+          "asset": "12",
+          "text": "TOMORROW. AND TOMORROW.",
+          "voice": "Our traveller was hoping for one uncomfortable evening. He is now looking at a much longer arrangement. Tomorrow he needs food. The next day he needs food. His body has absolutely no interest in how inconvenient this is."
+        },
+        {
+          "asset": "12",
+          "text": "WHO DOES YOUR JOB?",
+          "voice": "Which means the next threat might not look dramatic at all. It might look like an empty place where your share of the work used to be."
+        }
+      ],
+      "word_count": 165,
+      "estimated_start_seconds": 104.467,
+      "estimated_end_seconds": 173.633
+    },
+    {
+      "id": 4,
+      "file": "04_the_long_recovery",
+      "title": "Someone else's afternoon",
+      "segments": [
+        {
+          "asset": "13",
+          "text": "ONE INJURY. MORE WORK.",
+          "voice": "Imagine the jobs that still need doing around this camp. Gathering fuel. Finding food. Carrying supplies. Maintaining shelter. The injury does not cancel any of them. It changes who can do them."
+        },
+        {
+          "asset": "14",
+          "text": "CARE HAS A COST",
+          "voice": "Someone bringing you food is spending time they could spend elsewhere. Someone staying nearby may miss another task. Helping an injured person can be an ongoing commitment, not a single heroic gesture."
+        },
+        {
+          "asset": "15",
+          "text": "LESS MOBILE ≠ LESS HUMAN",
+          "voice": "But needing help does not make someone useless. In our imaginary camp, the traveller can still share what he knows, watch what is happening, or work with his hands when he is able. His role can change."
+        },
+        {
+          "asset": "16",
+          "text": "CARE CAN LEAVE CLUES",
+          "voice": "We should not pretend every ancient group behaved alike. Researchers studying Neanderthals argue that care for injured people could make an important contribution to survival. The evidence includes injuries that healed while the person continued living."
+        },
+        {
+          "asset": "16",
+          "text": "SHOW ME THE BONES",
+          "voice": "That is a stronger clue than any scene we invent. So let us leave our traveller by the fire and meet someone whose bones actually survived."
+        }
+      ],
+      "word_count": 163,
+      "estimated_start_seconds": 173.633,
+      "estimated_end_seconds": 241.7
+    },
+    {
+      "id": 5,
+      "file": "05_shanidar",
+      "title": "A real survivor",
+      "segments": [
+        {
+          "asset": "17",
+          "text": "SHANIDAR CAVE · IRAQ",
+          "voice": "At Shanidar Cave, in what is now Iraq, archaeologists found the remains of a Neanderthal known as Shanidar One. His case takes us beyond an imagined accident and into a body that carried its injuries for years."
+        },
+        {
+          "asset": "18",
+          "text": "SEVERAL INJURIES. HEALING.",
+          "voice": "His skeleton records several serious injuries. Researchers describe damage around the left eye, a severely impaired right arm, and a healed fracture in the right foot. Yet he lived into adulthood, with age at death estimated around thirty-five to forty-five."
+        },
+        {
+          "asset": "19",
+          "text": "SURVIVAL LEAVES A TRACE",
+          "voice": "That does not tell us every treatment he received. It does not let us name the people who helped. It does show that the injuries were not all immediate death sentences."
+        },
+        {
+          "asset": "20",
+          "text": "SUPPORT IS AN INFERENCE",
+          "voice": "His survival is widely interpreted as evidence of support from others. The skeleton gives us injuries and healing. The daily work of care has to be reconstructed more cautiously."
+        },
+        {
+          "asset": "20",
+          "text": "THEN THERE IS BORNEO…",
+          "voice": "Still, the cartoon of prehistory where everyone simply abandons the injured is already looking shaky. And another discovery takes the question further. What if part of a leg was gone?"
+        }
+      ],
+      "word_count": 167,
+      "estimated_start_seconds": 241.7,
+      "estimated_end_seconds": 311.333
+    },
+    {
+      "id": 6,
+      "file": "06_borneo",
+      "title": "The missing lower leg",
+      "segments": [
+        {
+          "asset": "21",
+          "text": "BORNEO · ABOUT 31,000 YEARS AGO",
+          "voice": "In Liang Tebo cave, on the island of Borneo, researchers uncovered a burial about thirty-one thousand years old. The young adult inside was missing the left foot and part of the lower left leg."
+        },
+        {
+          "asset": "22",
+          "text": "MISSING IS ONLY THE START",
+          "voice": "Missing bones alone would not prove surgery. Bodies can be disturbed after burial. Here, the researchers examined something more revealing: changes in the surviving leg bones."
+        },
+        {
+          "asset": "23",
+          "text": "6–9 YEARS · RESEARCH ESTIMATE",
+          "voice": "They identified extensive healing and argued that the person had lived for at least another six to nine years after the injury, which probably happened in childhood."
+        },
+        {
+          "asset": "24",
+          "text": "SURGICAL AMPUTATION?",
+          "voice": "Their interpretation, published in Nature in twenty twenty-two, was deliberate surgical amputation. If correct, that places a successful operation astonishingly far back in time."
+        },
+        {
+          "asset": "24",
+          "text": "WHAT WE STILL DON'T KNOW",
+          "voice": "But the bones do not preserve the operator's name, the instrument, or a recipe for managing pain. And there is a twist the headline often leaves out: other specialists challenged the diagnosis."
+        }
+      ],
+      "word_count": 143,
+      "estimated_start_seconds": 311.333,
+      "estimated_end_seconds": 371.033
+    },
+    {
+      "id": 7,
+      "file": "07_the_debate",
+      "title": "The evidence gets cross-examined",
+      "segments": [
+        {
+          "asset": "25",
+          "text": "SURGERY OR SEVERE TRAUMA?",
+          "voice": "In a published response, orthopaedic surgeons proposed a different explanation involving a severe fracture during growth. They argued that the skeletal changes did not require a deliberate operation."
+        },
+        {
+          "asset": "26",
+          "text": "THE ORIGINAL TEAM DISAGREED",
+          "voice": "The original researchers defended their conclusion. They said the location and form of the damage did not match that proposed fracture, and maintained that amputation best explained what they observed."
+        },
+        {
+          "asset": "27",
+          "text": "HEALING ≠ THE WHOLE STORY",
+          "voice": "Here is the difficult part. A bone can show that an injury healed. Reconstructing exactly what caused it is another question. Surviving a terrible injury and proving an operation are different claims."
+        },
+        {
+          "asset": "27",
+          "text": "THE TREATMENT IS UNKNOWN",
+          "voice": "We also cannot fill the missing details with a magical leaf, a miracle ointment, or an exact survival percentage. A dramatic possibility is still a possibility that has to answer to the bones."
+        },
+        {
+          "asset": "28",
+          "text": "BACK TO OUR TRAVELLER",
+          "voice": "And none of this makes a broken leg safe. It gives us a more interesting answer than instant doom. Injury, survival, skill, and help could exist in the same world."
+        }
+      ],
+      "word_count": 153,
+      "estimated_start_seconds": 371.033,
+      "estimated_end_seconds": 434.833
+    },
+    {
+      "id": 8,
+      "file": "08_finale",
+      "title": "The next day",
+      "segments": [
+        {
+          "asset": "29",
+          "text": "NO GUARANTEED ENDING",
+          "voice": "Back at our imaginary camp, there is no guarantee of a happy ending. A severe injury could kill. An injury could heal badly. Someone might survive with lasting pain or a different way of moving."
+        },
+        {
+          "asset": "30",
+          "text": "ONE STEP WAS NOT THE WHOLE STORY",
+          "voice": "But look at what changed after that first crack. Other people found him. Shelter became reachable. Food kept arriving. The world did not become gentle. He stopped facing every part of it alone."
+        },
+        {
+          "asset": "31",
+          "text": "GAME OVER? NOT ALWAYS.",
+          "voice": "Would a broken leg end your life thirty thousand years ago? It could. But healed injuries show that it did not always do so. The outcome depended on the injury and the circumstances around it."
+        },
+        {
+          "asset": "32",
+          "text": "SOMEONE CAME BACK",
+          "voice": "Our traveller notices a companion bringing another meal. At the start, we were staring at his leg. By the end, we should also be looking at the person who came back."
+        },
+        {
+          "asset": "32",
+          "text": "ANCIENT BERGMAN",
+          "voice": "Then he points toward the path and offers a helpful suggestion. Apparently, there is a shortcut. His companion looks at him. He decides not to finish that sentence."
+        }
+      ],
+      "word_count": 162,
+      "estimated_start_seconds": 434.833,
+      "estimated_end_seconds": 502.4
+    }
+  ],
+  "word_count": 1202,
+  "estimated_duration_seconds": 502.4,
+  "estimated_wpm": 147,
+  "audio_received": false,
+  "final_video_rendered": false,
+  "unique_artwork_count": 24
+}

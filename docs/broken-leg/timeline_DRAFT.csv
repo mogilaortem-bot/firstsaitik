@@ -1,0 +1,91 @@
+shot,block,segment,asset,source_asset_role,voiceover,start_frame,frames,start,end,zoom,cx,cy,move,label,timing_status
+1,1,1,01,01,One bad step.,0,41,0.0,1.3666666666666667,1,0.5,0.5,0.035,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+2,1,1,01,01,A crack.,41,28,1.3666666666666667,2.3,1.65,0.57,0.66,0,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+3,1,1,02,01,Your leg will not hold you.,69,77,2.3,4.866666666666666,1.45,0.31,0.39,0.02,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+4,1,2,02,02,Now put that moment thirty thousand years in the past. No ambulance. No hospital.,146,175,4.866666666666666,10.7,1.25,0.3,0.42,0.025,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+5,1,2,02,02,And the sun is going down.,321,77,10.7,13.266666666666667,1.52,0.3,0.42,0,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+6,1,3,02,02,Game over? Not necessarily.,398,53,13.266666666666667,15.033333333333333,1.25,0.3,0.42,0.025,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+7,1,4,23,03,Archaeologists have found a person who survived a devastating leg injury for years.,451,163,15.033333333333333,20.466666666666665,1,0.5,0.5,0,SCHEMATIC,estimated_not_audio_aligned
+8,1,4,23,03,Some researchers think the damaged limb was deliberately amputated.,614,114,20.466666666666665,24.266666666666666,1,0.5,0.5,0,SCHEMATIC,estimated_not_audio_aligned
+9,1,5,04,04,"We will get to that remarkable case. First, our imaginary traveller has a more immediate problem.",728,200,24.266666666666666,30.933333333333334,1,0.5,0.5,0,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+10,1,5,04,04,The shelter is over there. He is over here. And the space between them has suddenly become enormous.,928,224,30.933333333333334,38.4,1,0.5,0.5,0,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+11,1,6,02,02,He checks the leg again. Still broken. This is going to complicate the afternoon.,1152,175,38.4,44.233333333333334,1.25,0.3,0.42,0.025,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+12,2,1,04,05,"A few minutes ago, that slope was a shortcut. Now it is a wall.",1327,175,44.233333333333334,50.06666666666667,1.0,0.5,0.5,0.025,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+13,2,1,04,05,The stream was somewhere to drink. Now it is an obstacle. Nothing in the landscape has changed.,1502,212,50.06666666666667,57.13333333333333,1.13,0.5,0.5,0,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+14,2,1,04,05,Your ability to cross it has.,1714,77,57.13333333333333,59.7,1.0,0.5,0.5,0.025,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+15,2,2,06,06,Our traveller is fictional.,1791,53,59.7,61.46666666666667,1.0,0.5,0.5,0.025,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+16,2,2,06,06,The problem is real: someone has to notice that you are missing before they can help.,1844,200,61.46666666666667,68.13333333333334,1.13,0.5,0.5,0,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+17,2,3,07,07,"In our story, two companions come back. One hears the shouting. The other sees the abandoned basket.",2044,212,68.13333333333334,75.2,1.0,0.5,0.5,0.025,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+18,2,3,07,07,"They are not arriving with a magic cure. They are arriving with time, effort, and another pair of hands.",2256,237,75.2,83.1,1.13,0.5,0.5,0,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+19,2,4,08,08,"Eventually, our traveller makes it back to shelter with help. The landscape has not become easier.",2493,200,83.1,89.76666666666667,1.0,0.5,0.5,0.025,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+20,2,4,08,08,He simply no longer has to cross it alone.,2693,114,89.76666666666667,93.56666666666666,1.13,0.5,0.5,0,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+21,2,5,08,08,"For one glorious moment, being back at camp feels like the end of the problem. Then you look down.",2807,237,93.56666666666666,101.46666666666667,1.0,0.5,0.5,0.025,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+22,2,5,08,08,The leg has come home with you.,3044,90,101.46666666666667,104.46666666666667,1.13,0.5,0.5,0,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+23,3,1,09,09,A broken leg is not one single injury.,3134,102,104.46666666666667,107.86666666666666,1,0.5,0.5,0,SCHEMATIC,estimated_not_audio_aligned
+24,3,1,09,09,A relatively stable fracture and a badly displaced break do not create the same problems.,3236,188,107.86666666666666,114.13333333333334,1,0.5,0.5,0,SCHEMATIC,estimated_not_audio_aligned
+25,3,1,09,09,Damage to surrounding tissue matters too.,3424,77,114.13333333333334,116.7,1,0.5,0.5,0,SCHEMATIC,estimated_not_audio_aligned
+26,3,2,10,10,"If the skin is broken, germs can enter the wound.",3501,126,116.7,120.9,1,0.5,0.5,0,SCHEMATIC,estimated_not_audio_aligned
+27,3,2,10,10,Serious fractures can also threaten nearby blood vessels and nerves.,3627,126,120.9,125.1,1,0.5,0.5,0,SCHEMATIC,estimated_not_audio_aligned
+28,3,2,10,10,"Without modern treatment, those complications could make a bad situation much worse.",3753,151,125.1,130.13333333333333,1,0.5,0.5,0,SCHEMATIC,estimated_not_audio_aligned
+29,3,3,11,11,And even an injury that heals does not heal overnight.,3904,126,130.13333333333333,134.33333333333334,1,0.5,0.5,0,MODERN COMPARISON · NHS,estimated_not_audio_aligned
+30,3,3,11,11,"Today, the NHS describes six to twelve weeks as a usual healing range for a broken leg, sometimes longer.",4030,237,134.33333333333334,142.23333333333332,1,0.5,0.5,0,MODERN COMPARISON · NHS,estimated_not_audio_aligned
+31,3,3,11,11,"That is a modern comparison, not an ancient recovery schedule.",4267,126,142.23333333333332,146.43333333333334,1,0.5,0.5,0,MODERN COMPARISON · NHS,estimated_not_audio_aligned
+32,3,4,12,12,Our traveller was hoping for one uncomfortable evening. He is now looking at a much longer arrangement.,4393,212,146.43333333333334,153.5,1.0,0.5,0.5,0.025,,estimated_not_audio_aligned
+33,3,4,12,12,Tomorrow he needs food. The next day he needs food.,4605,126,153.5,157.7,1.13,0.5,0.5,0,,estimated_not_audio_aligned
+34,3,4,12,12,His body has absolutely no interest in how inconvenient this is.,4731,139,157.7,162.33333333333334,1.0,0.5,0.5,0.025,,estimated_not_audio_aligned
+35,3,5,12,12,Which means the next threat might not look dramatic at all.,4870,139,162.33333333333334,166.96666666666667,1.0,0.5,0.5,0.025,,estimated_not_audio_aligned
+36,3,5,12,12,It might look like an empty place where your share of the work used to be.,5009,200,166.96666666666667,173.63333333333333,1.13,0.5,0.5,0,,estimated_not_audio_aligned
+37,4,1,13,13,Imagine the jobs that still need doing around this camp. Gathering fuel. Finding food. Carrying supplies. Maintaining shelter.,5209,224,173.63333333333333,181.1,1.0,0.5,0.5,0.025,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+38,4,1,13,13,The injury does not cancel any of them. It changes who can do them.,5433,175,181.1,186.93333333333334,1.13,0.5,0.5,0,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+39,4,2,14,14,Someone bringing you food is spending time they could spend elsewhere. Someone staying nearby may miss another task.,5608,224,186.93333333333334,194.4,1.0,0.5,0.5,0.025,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+40,4,2,14,14,"Helping an injured person can be an ongoing commitment, not a single heroic gesture.",5832,175,194.4,200.23333333333332,1.13,0.5,0.5,0,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+41,4,3,15,15,But needing help does not make someone useless.,6007,102,200.23333333333332,203.63333333333333,1.0,0.5,0.5,0.025,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+42,4,3,15,15,"In our imaginary camp, the traveller can still share what he knows, watch what is happening, or work with his hands when he is able.",6109,310,203.63333333333333,213.96666666666667,1.13,0.5,0.5,0,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+43,4,3,15,15,His role can change.,6419,53,213.96666666666667,215.73333333333332,1.0,0.5,0.5,0.025,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+44,4,4,08,16,We should not pretend every ancient group behaved alike.,6472,114,215.73333333333332,219.53333333333333,1.0,0.5,0.5,0.025,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+45,4,4,08,16,Researchers studying Neanderthals argue that care for injured people could make an important contribution to survival.,6586,200,219.53333333333333,226.2,1.13,0.5,0.5,0,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+46,4,4,08,16,The evidence includes injuries that healed while the person continued living.,6786,139,226.2,230.83333333333334,1.0,0.5,0.5,0.025,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+47,4,5,08,16,That is a stronger clue than any scene we invent.,6925,126,230.83333333333334,235.03333333333333,1.0,0.5,0.5,0.025,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+48,4,5,08,16,So let us leave our traveller by the fire and meet someone whose bones actually survived.,7051,200,235.03333333333333,241.7,1.13,0.5,0.5,0,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+49,5,1,17,17,"At Shanidar Cave, in what is now Iraq, archaeologists found the remains of a Neanderthal known as Shanidar One.",7251,237,241.7,249.6,1.0,0.5,0.5,0.025,SHANIDAR 1 · ILLUSTRATIVE RECONSTRUCTION,estimated_not_audio_aligned
+50,5,1,17,17,His case takes us beyond an imagined accident and into a body that carried its injuries for years.,7488,224,249.6,257.06666666666666,1.13,0.5,0.5,0,SHANIDAR 1 · ILLUSTRATIVE RECONSTRUCTION,estimated_not_audio_aligned
+51,5,2,18,18,His skeleton records several serious injuries.,7712,77,257.06666666666666,259.6333333333333,1,0.5,0.5,0,SHANIDAR 1 · ILLUSTRATIVE RECONSTRUCTION,estimated_not_audio_aligned
+52,5,2,18,18,"Researchers describe damage around the left eye, a severely impaired right arm, and a healed fracture in the right foot.",7789,249,259.6333333333333,267.93333333333334,1,0.5,0.5,0,SHANIDAR 1 · ILLUSTRATIVE RECONSTRUCTION,estimated_not_audio_aligned
+53,5,2,18,18,"Yet he lived into adulthood, with age at death estimated around thirty-five to forty-five.",8038,175,267.93333333333334,273.76666666666665,1,0.5,0.5,0,SHANIDAR 1 · ILLUSTRATIVE RECONSTRUCTION,estimated_not_audio_aligned
+54,5,3,19,19,That does not tell us every treatment he received. It does not let us name the people who helped.,8213,237,273.76666666666665,281.6666666666667,1,0.5,0.5,0,SHANIDAR 1 · ILLUSTRATIVE RECONSTRUCTION,estimated_not_audio_aligned
+55,5,3,19,19,It does show that the injuries were not all immediate death sentences.,8450,151,281.6666666666667,286.7,1,0.5,0.5,0,SHANIDAR 1 · ILLUSTRATIVE RECONSTRUCTION,estimated_not_audio_aligned
+56,5,4,20,20,His survival is widely interpreted as evidence of support from others. The skeleton gives us injuries and healing.,8601,224,286.7,294.1666666666667,1.0,0.5,0.5,0.025,SHANIDAR 1 · ILLUSTRATIVE RECONSTRUCTION,estimated_not_audio_aligned
+57,5,4,20,20,The daily work of care has to be reconstructed more cautiously.,8825,139,294.1666666666667,298.8,1.13,0.5,0.5,0,SHANIDAR 1 · ILLUSTRATIVE RECONSTRUCTION,estimated_not_audio_aligned
+58,5,5,20,20,"Still, the cartoon of prehistory where everyone simply abandons the injured is already looking shaky.",8964,188,298.8,305.06666666666666,1.0,0.5,0.5,0.025,SHANIDAR 1 · ILLUSTRATIVE RECONSTRUCTION,estimated_not_audio_aligned
+59,5,5,20,20,And another discovery takes the question further. What if part of a leg was gone?,9152,188,305.06666666666666,311.3333333333333,1.13,0.5,0.5,0,SHANIDAR 1 · ILLUSTRATIVE RECONSTRUCTION,estimated_not_audio_aligned
+60,6,1,21,21,"In Liang Tebo cave, on the island of Borneo, researchers uncovered a burial about thirty-one thousand years old.",9340,224,311.3333333333333,318.8,1.0,0.5,0.5,0.025,LIANG TEBO · RESEARCH INTERPRETATION,estimated_not_audio_aligned
+61,6,1,21,21,The young adult inside was missing the left foot and part of the lower left leg.,9564,200,318.8,325.46666666666664,1.13,0.5,0.5,0,LIANG TEBO · RESEARCH INTERPRETATION,estimated_not_audio_aligned
+62,6,2,22,22,Missing bones alone would not prove surgery. Bodies can be disturbed after burial.,9764,163,325.46666666666664,330.9,1.0,0.5,0.5,0.025,LIANG TEBO · RESEARCH INTERPRETATION,estimated_not_audio_aligned
+63,6,2,22,22,"Here, the researchers examined something more revealing: changes in the surviving leg bones.",9927,163,330.9,336.3333333333333,1.13,0.5,0.5,0,LIANG TEBO · RESEARCH INTERPRETATION,estimated_not_audio_aligned
+64,6,3,23,23,They identified extensive healing and argued that the person had lived for at least another six to nine years,10090,237,336.3333333333333,344.23333333333335,1,0.5,0.5,0,LIANG TEBO · RESEARCH INTERPRETATION,estimated_not_audio_aligned
+65,6,3,23,23,"after the injury, which probably happened in childhood.",10327,102,344.23333333333335,347.6333333333333,1,0.5,0.5,0,LIANG TEBO · RESEARCH INTERPRETATION,estimated_not_audio_aligned
+66,6,4,24,24,"Their interpretation, published in Nature in twenty twenty-two, was deliberate surgical amputation.",10429,151,347.6333333333333,352.6666666666667,1,0.5,0.5,0,LIANG TEBO · RESEARCH INTERPRETATION,estimated_not_audio_aligned
+67,6,4,24,24,"If correct, that places a successful operation astonishingly far back in time.",10580,151,352.6666666666667,357.7,1,0.5,0.5,0,LIANG TEBO · RESEARCH INTERPRETATION,estimated_not_audio_aligned
+68,6,5,24,24,"But the bones do not preserve the operator's name, the instrument, or a recipe for managing pain.",10731,212,357.7,364.76666666666665,1,0.5,0.5,0,LIANG TEBO · RESEARCH INTERPRETATION,estimated_not_audio_aligned
+69,6,5,24,24,And there is a twist the headline often leaves out: other specialists challenged the diagnosis.,10943,188,364.76666666666665,371.03333333333336,1,0.5,0.5,0,LIANG TEBO · RESEARCH INTERPRETATION,estimated_not_audio_aligned
+70,7,1,25,25,"In a published response, orthopaedic surgeons proposed a different explanation involving a severe fracture during growth.",11131,200,371.03333333333336,377.7,1,0.5,0.5,0,PUBLISHED DEBATE · 2023,estimated_not_audio_aligned
+71,7,1,25,25,They argued that the skeletal changes did not require a deliberate operation.,11331,151,377.7,382.73333333333335,1,0.5,0.5,0,PUBLISHED DEBATE · 2023,estimated_not_audio_aligned
+72,7,2,25,26,The original researchers defended their conclusion.,11482,77,382.73333333333335,385.3,1,0.5,0.5,0,PUBLISHED DEBATE · 2023,estimated_not_audio_aligned
+73,7,2,25,26,"They said the location and form of the damage did not match that proposed fracture, and maintained that amputation best explained what they observed.",11559,298,385.3,395.23333333333335,1,0.5,0.5,0,PUBLISHED DEBATE · 2023,estimated_not_audio_aligned
+74,7,3,24,27,Here is the difficult part. A bone can show that an injury healed.,11857,163,395.23333333333335,400.6666666666667,1,0.5,0.5,0,PUBLISHED DEBATE · 2023,estimated_not_audio_aligned
+75,7,3,24,27,Reconstructing exactly what caused it is another question. Surviving a terrible injury and proving an operation are different claims.,12020,237,400.6666666666667,408.56666666666666,1,0.5,0.5,0,PUBLISHED DEBATE · 2023,estimated_not_audio_aligned
+76,7,4,24,27,"We also cannot fill the missing details with a magical leaf, a miracle ointment, or an exact survival percentage.",12257,237,408.56666666666666,416.46666666666664,1,0.5,0.5,0,PUBLISHED DEBATE · 2023,estimated_not_audio_aligned
+77,7,4,24,27,A dramatic possibility is still a possibility that has to answer to the bones.,12494,175,416.46666666666664,422.3,1,0.5,0.5,0,PUBLISHED DEBATE · 2023,estimated_not_audio_aligned
+78,7,5,08,28,And none of this makes a broken leg safe. It gives us a more interesting answer than instant doom.,12669,237,422.3,430.2,1.0,0.5,0.5,0.025,PUBLISHED DEBATE · 2023,estimated_not_audio_aligned
+79,7,5,08,28,"Injury, survival, skill, and help could exist in the same world.",12906,139,430.2,434.8333333333333,1.13,0.5,0.5,0,PUBLISHED DEBATE · 2023,estimated_not_audio_aligned
+80,8,1,29,29,"Back at our imaginary camp, there is no guarantee of a happy ending. A severe injury could kill.",13045,224,434.8333333333333,442.3,1.0,0.5,0.5,0.025,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+81,8,1,29,29,An injury could heal badly. Someone might survive with lasting pain or a different way of moving.,13269,212,442.3,449.3666666666667,1.13,0.5,0.5,0,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+82,8,2,13,30,But look at what changed after that first crack. Other people found him. Shelter became reachable. Food kept arriving.,13481,237,449.3666666666667,457.26666666666665,1.0,0.5,0.5,0.025,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+83,8,2,13,30,The world did not become gentle. He stopped facing every part of it alone.,13718,175,457.26666666666665,463.1,1.13,0.5,0.5,0,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+84,8,3,07,31,Would a broken leg end your life thirty thousand years ago? It could.,13893,163,463.1,468.53333333333336,1.0,0.5,0.5,0.025,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+85,8,3,07,31,But healed injuries show that it did not always do so.,14056,139,468.53333333333336,473.1666666666667,1.13,0.5,0.5,0,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+86,8,3,07,31,The outcome depended on the injury and the circumstances around it.,14195,139,473.1666666666667,477.8,1.0,0.5,0.5,0.025,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+87,8,4,32,32,"Our traveller notices a companion bringing another meal. At the start, we were staring at his leg.",14334,212,477.8,484.8666666666667,1.0,0.5,0.5,0.025,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+88,8,4,32,32,"By the end, we should also be looking at the person who came back.",14546,175,484.8666666666667,490.7,1.13,0.5,0.5,0,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+89,8,5,32,32,"Then he points toward the path and offers a helpful suggestion. Apparently, there is a shortcut.",14721,200,490.7,497.3666666666667,1.0,0.5,0.5,0.025,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned
+90,8,5,32,32,His companion looks at him. He decides not to finish that sentence.,14921,151,497.3666666666667,502.4,1.13,0.5,0.5,0,ILLUSTRATIVE SCENARIO,estimated_not_audio_aligned

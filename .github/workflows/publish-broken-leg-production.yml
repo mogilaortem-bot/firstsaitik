@@ -1,0 +1,56 @@
+name: Publish Broken Leg production kit
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/broken-leg/**'
+      - 'delivery/broken-leg/**'
+      - '.github/workflows/publish-broken-leg-production.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: publish-broken-leg-production-v1
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the prepared production kit
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+
+      - name: Verify all files and build deterministic archives
+        shell: bash
+        run: python3 delivery/broken-leg/make_delivery.py "$RUNNER_TEMP/broken-leg"
+
+      - name: Publish the production kit and narration texts
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RELEASE_TAG: broken-leg-production-v1
+        shell: bash
+        run: |
+          if ! gh release view "$RELEASE_TAG" >/dev/null 2>&1; then
+            gh release create "$RELEASE_TAG" \
+              --target "$GITHUB_SHA" \
+              --prerelease \
+              --title "Ancient Bergman — Broken Leg: production kit (voice pending)" \
+              --notes-file delivery/broken-leg/release_notes.md
+          fi
+          gh release view "$RELEASE_TAG" --json assets --jq '.assets[].name' > "$RUNNER_TEMP/broken-leg-existing.txt"
+          for file in "$RUNNER_TEMP/broken-leg/"*.zip "$RUNNER_TEMP/broken-leg/archive_checksums.json" docs/broken-leg/Opening_Preview_NO_VOICE.mp4 docs/broken-leg/Voiceover_Full_EN.txt docs/broken-leg/thumbnails/A_GAME_OVER_Upload.jpg; do
+            name="$(basename "$file")"
+            if grep -Fxq "$name" "$RUNNER_TEMP/broken-leg-existing.txt"; then
+              echo "Already published: $name"
+            else
+              gh release upload "$RELEASE_TAG" "$file"
+            fi
+          done
+          gh release view "$RELEASE_TAG" --json url,assets --jq '{url, files: [.assets[] | {name, size, url}]}'

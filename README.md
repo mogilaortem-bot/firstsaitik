@@ -1,3 +1,13 @@
+# Ancient Bergman — новый выпуск в подготовке
+
+**You Broke a Leg 30,000 Years Ago. Now What?** — сценарий, обложка, 24 иллюстрации, 40 текстовых акцентов и визуальный черновик начала. Новая озвучка пока не получена.
+
+- [Материалы второго выпуска и инструкция](docs/broken-leg/README.md)
+- [Комплект для скачивания](https://github.com/mogilaortem-bot/firstsaitik/releases/tag/broken-leg-production-v1)
+- [Шапка и аватар Ancient Bergman](docs/ancient-bergman/README.md)
+
+---
+
 # MURAL HISTORY
 
 ## How Did Ancient Humans Choose Where to Sleep?

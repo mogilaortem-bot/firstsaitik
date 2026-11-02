@@ -1,0 +1,113 @@
+# You Broke a Leg 30,000 Years Ago. Now What?
+
+English narration. All timestamps are provisional until new voice recordings are supplied.
+
+## 01 · One bad step
+
+One bad step. A crack. Your leg will not hold you.
+
+Now put that moment thirty thousand years in the past. No ambulance. No hospital. And the sun is going down.
+
+Game over? Not necessarily.
+
+Archaeologists have found a person who survived a devastating leg injury for years. Some researchers think the damaged limb was deliberately amputated.
+
+We will get to that remarkable case. First, our imaginary traveller has a more immediate problem. The shelter is over there. He is over here. And the space between them has suddenly become enormous.
+
+He checks the leg again. Still broken. This is going to complicate the afternoon.
+
+Sources: [S1: Maloney et al. (2022), Surgical amputation of a limb 31,000 years ago in Borneo](https://pmc.ncbi.nlm.nih.gov/articles/PMC9477728/)
+
+## 02 · The landscape changes
+
+A few minutes ago, that slope was a shortcut. Now it is a wall. The stream was somewhere to drink. Now it is an obstacle. Nothing in the landscape has changed. Your ability to cross it has.
+
+Our traveller is fictional. The problem is real: someone has to notice that you are missing before they can help.
+
+In our story, two companions come back. One hears the shouting. The other sees the abandoned basket. They are not arriving with a magic cure. They are arriving with time, effort, and another pair of hands.
+
+Eventually, our traveller makes it back to shelter with help. The landscape has not become easier. He simply no longer has to cross it alone.
+
+For one glorious moment, being back at camp feels like the end of the problem. Then you look down. The leg has come home with you.
+
+## 03 · Not every break is the same
+
+A broken leg is not one single injury. A relatively stable fracture and a badly displaced break do not create the same problems. Damage to surrounding tissue matters too.
+
+If the skin is broken, germs can enter the wound. Serious fractures can also threaten nearby blood vessels and nerves. Without modern treatment, those complications could make a bad situation much worse.
+
+And even an injury that heals does not heal overnight. Today, the NHS describes six to twelve weeks as a usual healing range for a broken leg, sometimes longer. That is a modern comparison, not an ancient recovery schedule.
+
+Our traveller was hoping for one uncomfortable evening. He is now looking at a much longer arrangement. Tomorrow he needs food. The next day he needs food. His body has absolutely no interest in how inconvenient this is.
+
+Which means the next threat might not look dramatic at all. It might look like an empty place where your share of the work used to be.
+
+Sources: [S7: NHS — Broken leg](https://www.nhs.uk/conditions/broken-leg/); [S8: Health New Zealand — Broken lower leg (fractured tibia or fibula)](https://www.healthnz.govt.nz/health-topics/conditions-treatments/bones-and-joints/broken-lower-leg-fractured-tibia-or-fibula)
+
+## 04 · Someone else's afternoon
+
+Imagine the jobs that still need doing around this camp. Gathering fuel. Finding food. Carrying supplies. Maintaining shelter. The injury does not cancel any of them. It changes who can do them.
+
+Someone bringing you food is spending time they could spend elsewhere. Someone staying nearby may miss another task. Helping an injured person can be an ongoing commitment, not a single heroic gesture.
+
+But needing help does not make someone useless. In our imaginary camp, the traveller can still share what he knows, watch what is happening, or work with his hands when he is able. His role can change.
+
+We should not pretend every ancient group behaved alike. Researchers studying Neanderthals argue that care for injured people could make an important contribution to survival. The evidence includes injuries that healed while the person continued living.
+
+That is a stronger clue than any scene we invent. So let us leave our traveller by the fire and meet someone whose bones actually survived.
+
+Sources: [S6: Spikins et al. — Living to fight another day: The ecological and evolutionary significance of Neanderthal healthcare](https://eprints.whiterose.ac.uk/id/eprint/134559/)
+
+## 05 · A real survivor
+
+At Shanidar Cave, in what is now Iraq, archaeologists found the remains of a Neanderthal known as Shanidar One. His case takes us beyond an imagined accident and into a body that carried its injuries for years.
+
+His skeleton records several serious injuries. Researchers describe damage around the left eye, a severely impaired right arm, and a healed fracture in the right foot. Yet he lived into adulthood, with age at death estimated around thirty-five to forty-five.
+
+That does not tell us every treatment he received. It does not let us name the people who helped. It does show that the injuries were not all immediate death sentences.
+
+His survival is widely interpreted as evidence of support from others. The skeleton gives us injuries and healing. The daily work of care has to be reconstructed more cautiously.
+
+Still, the cartoon of prehistory where everyone simply abandons the injured is already looking shaky. And another discovery takes the question further. What if part of a leg was gone?
+
+Sources: [S4: Smithsonian Human Origins Program — Shanidar 1](https://humanorigins.si.edu/evidence/human-fossils/fossils/shanidar-1); [S5: The Shanidar Cave Project — Previous excavations](https://www.shanidarcaveproject.com/previous-excavations)
+
+## 06 · The missing lower leg
+
+In Liang Tebo cave, on the island of Borneo, researchers uncovered a burial about thirty-one thousand years old. The young adult inside was missing the left foot and part of the lower left leg.
+
+Missing bones alone would not prove surgery. Bodies can be disturbed after burial. Here, the researchers examined something more revealing: changes in the surviving leg bones.
+
+They identified extensive healing and argued that the person had lived for at least another six to nine years after the injury, which probably happened in childhood.
+
+Their interpretation, published in Nature in twenty twenty-two, was deliberate surgical amputation. If correct, that places a successful operation astonishingly far back in time.
+
+But the bones do not preserve the operator's name, the instrument, or a recipe for managing pain. And there is a twist the headline often leaves out: other specialists challenged the diagnosis.
+
+Sources: [S1: Maloney et al. (2022), Surgical amputation of a limb 31,000 years ago in Borneo](https://pmc.ncbi.nlm.nih.gov/articles/PMC9477728/)
+
+## 07 · The evidence gets cross-examined
+
+In a published response, orthopaedic surgeons proposed a different explanation involving a severe fracture during growth. They argued that the skeletal changes did not require a deliberate operation.
+
+The original researchers defended their conclusion. They said the location and form of the damage did not match that proposed fracture, and maintained that amputation best explained what they observed.
+
+Here is the difficult part. A bone can show that an injury healed. Reconstructing exactly what caused it is another question. Surviving a terrible injury and proving an operation are different claims.
+
+We also cannot fill the missing details with a magical leaf, a miracle ointment, or an exact survival percentage. A dramatic possibility is still a possibility that has to answer to the bones.
+
+And none of this makes a broken leg safe. It gives us a more interesting answer than instant doom. Injury, survival, skill, and help could exist in the same world.
+
+Sources: [S2: Murphy et al. (2023), Common orthopaedic trauma may explain 31,000-year-old remains](https://pmc.ncbi.nlm.nih.gov/articles/PMC10017491/); [S3: Vlok et al. (2023), Reply to: Common orthopaedic trauma may explain 31,000-year-old remains](https://pmc.ncbi.nlm.nih.gov/articles/PMC10017509/)
+
+## 08 · The next day
+
+Back at our imaginary camp, there is no guarantee of a happy ending. A severe injury could kill. An injury could heal badly. Someone might survive with lasting pain or a different way of moving.
+
+But look at what changed after that first crack. Other people found him. Shelter became reachable. Food kept arriving. The world did not become gentle. He stopped facing every part of it alone.
+
+Would a broken leg end your life thirty thousand years ago? It could. But healed injuries show that it did not always do so. The outcome depended on the injury and the circumstances around it.
+
+Our traveller notices a companion bringing another meal. At the start, we were staring at his leg. By the end, we should also be looking at the person who came back.
+
+Then he points toward the path and offers a helpful suggestion. Apparently, there is a shortcut. His companion looks at him. He decides not to finish that sentence.
