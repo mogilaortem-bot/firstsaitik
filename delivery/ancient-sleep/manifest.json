@@ -1,0 +1,27 @@
+{
+  "archive_name": "Ancient_Sleep_All_Files.zip",
+  "size_bytes": 243458022,
+  "sha256": "cb554f753bd50c794327c10b5d3ff1cc94b989a2ccc731a630f2fe4fb0ef8f56",
+  "parts": [
+    {
+      "name": "part-001.bin",
+      "size_bytes": 67108864,
+      "sha256": "96a1d034a04f644fd3c2e96f712a1df9bccceca47c1b68db618c2ad4a795939b"
+    },
+    {
+      "name": "part-002.bin",
+      "size_bytes": 67108864,
+      "sha256": "60723b1d5a21b37fba777e2ef4c2bceef690bcec80d503b1f2e5c29e0456eceb"
+    },
+    {
+      "name": "part-003.bin",
+      "size_bytes": 67108864,
+      "sha256": "decba9ad2c3404fb6454540e31f9d46f0179664ecc9f50592a89b8793a9af3a0"
+    },
+    {
+      "name": "part-004.bin",
+      "size_bytes": 42131430,
+      "sha256": "617c18c4a73c6d2c89b10b93bd90bde1ef87b88d1d66c978206ca6a7e2858c71"
+    }
+  ]
+}

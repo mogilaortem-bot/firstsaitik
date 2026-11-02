@@ -1,0 +1,66 @@
+name: Publish Ancient Sleep files
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'delivery/ancient-sleep/**'
+      - '.github/workflows/publish-ancient-sleep.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: publish-ancient-sleep-v1
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the prepared files
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+
+      - name: Reassemble and verify the complete archive
+        shell: bash
+        run: |
+          python3 delivery/ancient-sleep/assemble.py "$RUNNER_TEMP/ancient-sleep"
+          python3 -m zipfile -e "$RUNNER_TEMP/ancient-sleep/Ancient_Sleep_All_Files.zip" "$RUNNER_TEMP/ancient-sleep/unpacked"
+          python3 - <<'PY'
+          import hashlib, json, os
+          from pathlib import Path
+          p = Path(os.environ['RUNNER_TEMP']) / 'ancient-sleep/unpacked/Deliverables'
+          check = json.loads((p / 'Technical_validation.json').read_text())
+          video = p / 'Ancient_Sleep_Final_1080p.mp4'
+          assert video.stat().st_size == check['size_bytes']
+          assert hashlib.sha256(video.read_bytes()).hexdigest() == check['sha256']
+          print('Original video SHA-256 verified.')
+          PY
+
+      - name: Publish downloadable release assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RELEASE_TAG: ancient-sleep-v1
+        shell: bash
+        run: |
+          if ! gh release view "$RELEASE_TAG" >/dev/null 2>&1; then
+            gh release create "$RELEASE_TAG" \
+              --target "$GITHUB_SHA" \
+              --title "Ancient Sleep — full video and production files" \
+              --notes-file delivery/ancient-sleep/release_notes.md
+          fi
+          gh release view "$RELEASE_TAG" --json assets --jq '.assets[].name' > "$RUNNER_TEMP/ancient-sleep-existing-assets.txt"
+          for file in "$RUNNER_TEMP/ancient-sleep/Ancient_Sleep_All_Files.zip" "$RUNNER_TEMP/ancient-sleep/unpacked/Deliverables/"*; do
+            name="$(basename "$file")"
+            if grep -Fxq "$name" "$RUNNER_TEMP/ancient-sleep-existing-assets.txt"; then
+              echo "Already published: $name"
+            else
+              gh release upload "$RELEASE_TAG" "$file"
+            fi
+          done
+          gh release view "$RELEASE_TAG" --json url,assets --jq '{url, files: [.assets[] | {name, size, url}]}'

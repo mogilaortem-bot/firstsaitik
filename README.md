@@ -1,3 +1,19 @@
+# MURAL HISTORY
+
+## How Did Ancient Humans Choose Where to Sleep?
+
+Английский иллюстрированный ролик, **8:30, 1080p, 30 fps**.
+
+- [Скачать готовый MP4](https://github.com/mogilaortem-bot/firstsaitik/releases/download/ancient-sleep-v1/Ancient_Sleep_Final_1080p.mp4)
+- [Скачать все материалы одним ZIP](https://github.com/mogilaortem-bot/firstsaitik/releases/download/ancient-sleep-v1/Ancient_Sleep_All_Files.zip)
+- [Все файлы выпуска](https://github.com/mogilaortem-bot/firstsaitik/releases/tag/ancient-sleep-v1)
+- Страница с плеером: `docs/ancient-sleep/index.html`.
+- Исходные материалы для восстановления архива: `delivery/ancient-sleep/`.
+
+В ZIP включены готовое видео, звук FLAC, обложка, SRT/VTT, сценарий, источники и переносимый проект с иллюстрациями и восемью аудиозаписями.
+
+---
+
 # MURAL HISTORY — Kabul, 1972
 
 Статическая страница для просмотра и скачивания ролика длительностью 1:30.
