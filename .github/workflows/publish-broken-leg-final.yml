@@ -1,0 +1,67 @@
+name: Publish Broken Leg final video
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'delivery/broken-leg-final/**'
+      - '.github/workflows/publish-broken-leg-final.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: publish-broken-leg-final-v1
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the prepared files
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+
+      - name: Reassemble and verify every file
+        shell: bash
+        run: |
+          python3 delivery/broken-leg-final/assemble.py "$RUNNER_TEMP/broken-leg-final"
+          python3 -m zipfile -e "$RUNNER_TEMP/broken-leg-final/Ancient_Bergman_Broken_Leg_All_Files.zip" "$RUNNER_TEMP/broken-leg-final/unpacked"
+          python3 - <<'PY'
+          import hashlib, json, os
+          from pathlib import Path
+          root = Path(os.environ['RUNNER_TEMP']) / 'broken-leg-final/unpacked'
+          manifest = json.loads((root / 'MANIFEST.json').read_text())
+          for item in manifest['files']:
+              file = root / item['path']
+              assert file.stat().st_size == item['size_bytes'], item['path']
+              assert hashlib.sha256(file.read_bytes()).hexdigest() == item['sha256'], item['path']
+          print(f"Verified {len(manifest['files'])} original files.")
+          PY
+
+      - name: Publish downloadable release assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RELEASE_TAG: broken-leg-v1
+        shell: bash
+        run: |
+          if ! gh release view "$RELEASE_TAG" >/dev/null 2>&1; then
+            gh release create "$RELEASE_TAG" \
+              --target "$GITHUB_SHA" \
+              --title "Ancient Bergman — Broken Leg, finished video and all sources" \
+              --notes-file delivery/broken-leg-final/release_notes.md
+          fi
+          gh release view "$RELEASE_TAG" --json assets --jq '.assets[].name' > "$RUNNER_TEMP/broken-leg-final-existing-assets.txt"
+          for file in "$RUNNER_TEMP/broken-leg-final/Ancient_Bergman_Broken_Leg_All_Files.zip" "$RUNNER_TEMP/broken-leg-final/unpacked/Deliverables/"* delivery/broken-leg-final/checksums.json; do
+            name="$(basename "$file")"
+            if grep -Fxq "$name" "$RUNNER_TEMP/broken-leg-final-existing-assets.txt"; then
+              echo "Already published: $name"
+            else
+              gh release upload "$RELEASE_TAG" "$file"
+            fi
+          done
+          gh release view "$RELEASE_TAG" --json url,assets --jq '{url, files: [.assets[] | {name, size, url}]}'

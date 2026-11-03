@@ -1,10 +1,13 @@
-# Ancient Bergman — новый выпуск в подготовке
+# Ancient Bergman — второй выпуск готов
 
-**You Broke a Leg 30,000 Years Ago. Now What?** — сценарий, обложка, 24 иллюстрации, 40 текстовых акцентов и визуальный черновик начала. Новая озвучка пока не получена.
+**You Broke a Leg 30,000 Years Ago. Now What?** — английский ролик, **8:20, 1080p, 30 fps**. Полная озвучка, 24 иллюстрации, 90 планов, 43 текстовых акцента и английские субтитры.
 
-- [Материалы второго выпуска и инструкция](docs/broken-leg/README.md)
-- [Комплект для скачивания](https://github.com/mogilaortem-bot/firstsaitik/releases/tag/broken-leg-production-v1)
+- [Скачать готовое видео](https://github.com/mogilaortem-bot/firstsaitik/releases/download/broken-leg-v1/Ancient_Bergman_Broken_Leg_Final_1080p.mp4)
+- [Скачать видео и все исходники](https://github.com/mogilaortem-bot/firstsaitik/releases/download/broken-leg-v1/Ancient_Bergman_Broken_Leg_All_Files.zip)
+- [Все файлы выпуска](https://github.com/mogilaortem-bot/firstsaitik/releases/tag/broken-leg-v1)
+- [Описание, главы и инструкция](docs/broken-leg-final/README.md)
 - [Шапка и аватар Ancient Bergman](docs/ancient-bergman/README.md)
+- [Предварительный комплект второго выпуска](https://github.com/mogilaortem-bot/firstsaitik/releases/tag/broken-leg-production-v1)
 
 ---
 

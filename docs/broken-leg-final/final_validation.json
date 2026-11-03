@@ -1,0 +1,22 @@
+{
+  "file": "Ancient_Bergman_Broken_Leg_Final_1080p.mp4",
+  "duration_seconds": 500.533333,
+  "size_bytes": 127421342,
+  "width": 1920,
+  "height": 1080,
+  "frame_rate": "30/1",
+  "frame_count": 15016,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate": 48000,
+  "audio_channels": 2,
+  "chapters": 8,
+  "english_subtitle_track": true,
+  "shots": 90,
+  "unique_illustrations": 24,
+  "text_accents": 43,
+  "integrated_loudness_lufs": -14.15,
+  "true_peak_dbtp": -1.44,
+  "decode_errors": 0,
+  "sha256": "afa614fba6c40f1adae603e60ea1a6b81653f67b486c91330f223e3f3c6e35a6"
+}

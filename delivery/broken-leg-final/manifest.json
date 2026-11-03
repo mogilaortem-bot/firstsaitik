@@ -1,0 +1,27 @@
+{
+  "archive_name": "Ancient_Bergman_Broken_Leg_All_Files.zip",
+  "size_bytes": 249404292,
+  "sha256": "55e91112009f55f88ae2b78ae28830ac7f1abf3a30d032706f1cedada3b45b7e",
+  "parts": [
+    {
+      "name": "parts/001.bin",
+      "size_bytes": 67108864,
+      "sha256": "0b6cb7c41a54463e394ee62817369dad01290db1ff0f74d31a8ed631fa51dc38"
+    },
+    {
+      "name": "parts/002.bin",
+      "size_bytes": 67108864,
+      "sha256": "5a18cbfbac4b94e6d75828d45f837046a8526eeaabf86843101d7a12c803c9f3"
+    },
+    {
+      "name": "parts/003.bin",
+      "size_bytes": 67108864,
+      "sha256": "c3003ac8f52a8c08bd1eaf35bd9c01cf74f5228aa4016fd00c2fb3079148aea1"
+    },
+    {
+      "name": "parts/004.bin",
+      "size_bytes": 48077700,
+      "sha256": "a4eb07b74778ba4970d73968dfeab8e87b2ee242611cc75c0ff28a1689de7ef8"
+    }
+  ]
+}

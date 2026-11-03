@@ -1,0 +1,74 @@
+{
+  "archive": {
+    "archive_name": "Ancient_Bergman_Broken_Leg_All_Files.zip",
+    "size_bytes": 249404292,
+    "sha256": "55e91112009f55f88ae2b78ae28830ac7f1abf3a30d032706f1cedada3b45b7e"
+  },
+  "assets": [
+    {
+      "name": "A_GAME_OVER.png",
+      "size_bytes": 2602846,
+      "sha256": "a70eb8637b5063d925db5da97a9fdea02970b5352b61475a2e39cbab5397121b"
+    },
+    {
+      "name": "A_GAME_OVER_Upload.jpg",
+      "size_bytes": 664542,
+      "sha256": "cab99eafbc965691a5102388112ee520fd8d15e858778e774ec7c229bac53994"
+    },
+    {
+      "name": "Ancient_Bergman_Broken_Leg_Final_1080p.mp4",
+      "size_bytes": 127421342,
+      "sha256": "afa614fba6c40f1adae603e60ea1a6b81653f67b486c91330f223e3f3c6e35a6"
+    },
+    {
+      "name": "Broken_Leg_EN.srt",
+      "size_bytes": 11542,
+      "sha256": "9d673f7ec1c23601ea3d19941ffda40a2540aa3ab9cdc3548ec89756e15b6608"
+    },
+    {
+      "name": "Broken_Leg_EN.vtt",
+      "size_bytes": 11550,
+      "sha256": "5b60087a548e9e22acb1c6cec427d033cc333b5f7ce86dec3d9b4a3a2d2dd266"
+    },
+    {
+      "name": "Narration_Mix_48k.flac",
+      "size_bytes": 43234798,
+      "sha256": "6c0a7477e68517f6048b10bac38d8193aa44e0407be4c03f1048ef096049dd56"
+    },
+    {
+      "name": "Script_EN_with_sources.md",
+      "size_bytes": 8880,
+      "sha256": "7763b60c0492cdad1d0886a60203fa6170977d5ff03685d30ee127c800a8c45f"
+    },
+    {
+      "name": "Voiceover_Full_EN.txt",
+      "size_bytes": 7176,
+      "sha256": "98a4156282d5cff149ce3f3b281659a8371691641fea8f73d0a1bbe9d2cdabcf"
+    },
+    {
+      "name": "YouTube_Copy_EN.md",
+      "size_bytes": 2574,
+      "sha256": "1dd0b5ed9503d97418f99f884eb46e9c6b0ff77abaa0a0c8844edcb014f1ebd3"
+    },
+    {
+      "name": "audio_mix_notes.json",
+      "size_bytes": 373,
+      "sha256": "5142e03fe7824aabf06ab2229cde210913a35a52efa45388ecf8a811ce7064ae"
+    },
+    {
+      "name": "chapters.txt",
+      "size_bytes": 220,
+      "sha256": "0a711ecf61c1f1365c247b2dc3061e63b8f8a82092bc9eded309bd9f3103ccdf"
+    },
+    {
+      "name": "final_validation.json",
+      "size_bytes": 590,
+      "sha256": "c9cd3d96bc6e8293a41ce3cf2a5bce23aaf3aeba4c4566fc9e71845ef89a599e"
+    },
+    {
+      "name": "sources.json",
+      "size_bytes": 2999,
+      "sha256": "d36df5bf8826b72814906fab7c800802f05b150a22aec33c37019987edb832b0"
+    }
+  ]
+}
