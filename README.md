@@ -1,3 +1,13 @@
+# Ancient Bergman — третий выпуск для озвучки
+
+**You vs. a Human 50,000 Years Ago** — новый формат сравнения привычек. Подготовлены 40 рисунков, монтаж на 150 планов и восемь английских текстов. Новая озвучка пока не получена; видео в комплекте — визуальные черновики без диктора.
+
+- [Комплект и визуальный черновик](https://github.com/mogilaortem-bot/firstsaitik/releases/tag/habits-production-v1)
+- [Восемь текстов для ElevenLabs](https://github.com/mogilaortem-bot/firstsaitik/releases/download/habits-production-v1/ElevenLabs_8_Texts_EN.zip)
+- [Описание и инструкция](docs/habits/README.md)
+
+---
+
 # Ancient Bergman — второй выпуск готов
 
 **You Broke a Leg 30,000 Years Ago. Now What?** — английский ролик, **8:20, 1080p, 30 fps**. Полная озвучка, 24 иллюстрации, 90 планов, 43 текстовых акцента и английские субтитры.

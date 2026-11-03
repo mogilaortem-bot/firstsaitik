@@ -1,0 +1,14 @@
+{
+  "words": 1104,
+  "shots": 150,
+  "unique_images": 40,
+  "text_accents": 43,
+  "estimated_duration_seconds": 456.96666666666664,
+  "median_shot_seconds": 2.9,
+  "mean_shot_seconds": 3.046,
+  "max_shot_seconds": 5.7,
+  "opening_shots": 16,
+  "previous_episode_shots": 90,
+  "previous_episode_images": 24,
+  "audio_received": false
+}

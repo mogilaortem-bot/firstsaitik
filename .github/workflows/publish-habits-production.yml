@@ -1,0 +1,77 @@
+name: Publish Habits production kit
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'delivery/habits-production/**'
+      - '.github/workflows/publish-habits-production.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: publish-habits-production-v1
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - name: Check out prepared materials
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+
+      - name: Reassemble and verify every source file
+        shell: bash
+        run: |
+          python3 delivery/habits-production/assemble.py "$RUNNER_TEMP/habits"
+          python3 -m zipfile -e "$RUNNER_TEMP/habits/Ancient_Bergman_Habits_Production_Kit.zip" "$RUNNER_TEMP/habits/unpacked"
+          python3 - <<'PY'
+          import hashlib, json, os
+          from pathlib import Path
+          root = Path(os.environ['RUNNER_TEMP']) / 'habits/unpacked'
+          m = json.loads((root / 'MANIFEST.json').read_text())
+          for item in m['files']:
+              p = root / item['path']
+              assert p.stat().st_size == item['size_bytes'], item['path']
+              assert hashlib.sha256(p.read_bytes()).hexdigest() == item['sha256'], item['path']
+          print(f"Verified {len(m['files'])} files; narration is still pending.")
+          PY
+
+      - name: Publish clearly labelled prerelease assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RELEASE_TAG: habits-production-v1
+        shell: bash
+        run: |
+          if ! gh release view "$RELEASE_TAG" >/dev/null 2>&1; then
+            gh release create "$RELEASE_TAG" --prerelease \
+              --target "$GITHUB_SHA" \
+              --title "Ancient Bergman — Habits production kit, narration pending" \
+              --notes-file delivery/habits-production/release_notes.md
+          fi
+          gh release view "$RELEASE_TAG" --json assets --jq '.assets[].name' > "$RUNNER_TEMP/habits-existing-assets.txt"
+          files=(
+            "$RUNNER_TEMP/habits/Ancient_Bergman_Habits_Production_Kit.zip"
+            "$RUNNER_TEMP/habits/unpacked/ElevenLabs_8_Texts_EN.zip"
+            "$RUNNER_TEMP/habits/unpacked/Opening_Preview_NO_VOICE.mp4"
+            "$RUNNER_TEMP/habits/unpacked/Full_Visual_Draft_NO_VOICE.mp4"
+            "$RUNNER_TEMP/habits/unpacked/thumbnails/A_SAME_HABITS_Upload.jpg"
+            "$RUNNER_TEMP/habits/unpacked/Voiceover_Full_EN.txt"
+            "$RUNNER_TEMP/habits/unpacked/Script_EN_with_sources.md"
+            "delivery/habits-production/checksums.json"
+          )
+          for file in "${files[@]}"; do
+            name="$(basename "$file")"
+            if grep -Fxq "$name" "$RUNNER_TEMP/habits-existing-assets.txt"; then
+              echo "Already published: $name"
+            else
+              gh release upload "$RELEASE_TAG" "$file"
+            fi
+          done
+          gh release view "$RELEASE_TAG" --json url,assets --jq '{url, files: [.assets[] | {name, size, url}]}'

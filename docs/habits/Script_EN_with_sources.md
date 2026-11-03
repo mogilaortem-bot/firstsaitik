@@ -1,0 +1,137 @@
+# You vs. a Human 50,000 Years Ago
+
+English voiceover. Story scenes are fictional; research is attributed. All timings remain provisional until new audio is supplied.
+
+## 01 · Suspiciously familiar
+
+You check one message.
+
+Now you are watching someone make dinner.
+
+Judging an outfit.
+
+Getting invested in somebody else's drama.
+
+Take away the screen. Move back fifty thousand years. Some of those interests start looking suspiciously familiar.
+
+Five everyday habits. A modern human. An ancient double. And one habit you will catch yourself doing before this video ends.
+
+Our characters are imaginary. The clues are real, from different places and dates. We will keep those dates visible.
+
+First, both humans are hungry. Unfortunately, both have opinions.
+
+## 02 · Food with opinions
+
+Modern you has food. Perfectly edible food. You still open a cupboard, add something, taste it, and add something else.
+
+Our ancient double does not have hot sauce. But the cartoon where prehistoric cooking means biting the nearest animal is missing quite a lot.
+
+At Shanidar Cave in Iraq, researchers examined charred plant foods from occupations associated with Neanderthals around seventy thousand years ago, and modern humans around forty thousand years ago.
+
+They found evidence of processing plants, including pounding and soaking pulses. These were meals that took preparation. Some ingredients had bitter or sharp tastes.
+
+The researchers suggest flavour mattered. That does not give us a complete recipe, or prove everyone loved the same dinner.
+
+It does make our fussy modern eater feel a little less original. Our ancient cook offers a sample. His friend takes one bite. There is a pause. A very old kind of pause.
+
+Dinner is complicated. Surely getting dressed will be simpler.
+
+Sources: [S1: Kabukcu et al. — Cooking in caves: Palaeolithic carbonised plant food remains from Franchthi and Shanidar](https://doi.org/10.15184/aqy.2022.143)
+
+## 03 · The outfit still matters
+
+You try one outfit. Then another. Then the first one again. The meeting has not started. You are already negotiating.
+
+Our ancient double has fewer options. We still give him one extremely serious decision: which necklace?
+
+That part has a material clue. Ostrich eggshell beads appear in African archaeological records going back around fifty thousand years.
+
+Making tiny discs with holes takes work. Wearing them changes how you look. Their precise meanings are harder to recover.
+
+Researchers comparing beads from eastern and southern Africa found similarities they interpret as evidence of connections between populations. An ancient social network, in the literal sense of people connected to people.
+
+It does not mean a necklace was a follower count. It could communicate things we can no longer read.
+
+In our cartoon, his friend notices the new necklace immediately. He pretends that was not the point. Across the split screen, modern you makes exactly the same face.
+
+Sources: [S2: Miller & Wang — Ostrich eggshell beads reveal 50,000-year-old social network in Africa](https://doi.org/10.1038/s41586-021-04227-2)
+
+## 04 · One annoying tooth
+
+Now for a less glamorous habit. Something is bothering your teeth. Suddenly the rest of your life has become background noise.
+
+Give our ancient double the same irritated expression, and the joke almost writes itself. But this comparison has evidence beyond a funny drawing.
+
+A study of a Neanderthal jaw from Cova Forada in Spain described grooves on two teeth consistent with repeated toothpick use.
+
+The individual also had dental disease. The researchers proposed that probing between the teeth may have helped relieve discomfort.
+
+That is a specific interpretation of a specific specimen. It is not evidence that every ancient person followed a modern dental routine.
+
+Still, an ordinary repeated action can leave a trace long after the person is gone. Imagine having your most irritating afternoon become somebody else's research paper.
+
+And now somebody has something to say about somebody else. Excellent. The day can continue.
+
+Sources: [S3: Lozano et al. (2013) — Toothpicking and Periodontal Disease in a Neanderthal Specimen from Cova Foradà Site (Valencia, Spain)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0076852)
+
+## 05 · Other people's business
+
+Your friend says, did you hear? You were busy a second ago. Now you have time.
+
+Our ancient characters lean closer. We can imagine the conversation. We cannot excavate the actual gossip. Words usually leave nothing an archaeologist can pick up.
+
+Here we need a different kind of clue. Anthropologist Polly Wiessner studied conversations among the Ju'hoansi in southern Africa. Daytime talk included practical matters and gossip about social relationships.
+
+Those are recent communities with their own histories. They are not people frozen in the Stone Age. The research helps us ask useful questions about social life; it cannot supply a fifty-thousand-year-old transcript.
+
+Who shares? Who keeps promises? Who is difficult to work with? Information about people can matter when you depend on them.
+
+In our fictional camp, the conversation stops the moment its subject walks over. Modern you does something remarkably similar with your phone.
+
+Then the light changes. Somebody starts a story. And this is where the final habit gets personal.
+
+Sources: [S4: Wiessner (2014) — Embers of society: Firelight talk among the Ju/’hoansi Bushmen](https://pubmed.ncbi.nlm.nih.gov/25246574/)
+
+## 06 · Just one more story
+
+You were going to bed. Then a story begins with a problem. Now you need to know what happens.
+
+Around our imaginary fire, a storyteller pauses at exactly the wrong moment. The audience leans in. He has them.
+
+For an ancient clue, look at a painted scene in Leang Karampuang, on the Indonesian island of Sulawesi.
+
+Researchers reported a minimum age of fifty-one thousand two hundred years. Human-like figures appear with a pig. The authors interpret the arrangement as a narrative scene.
+
+We cannot recover the spoken story, if there was one. We can see that people were making images far beyond anything needed to keep warm tonight.
+
+Research among the Agta in the Philippines offers another, modern comparison: skilled storytellers were preferred social partners, and their stories conveyed ideas about cooperation.
+
+That is not proof of exactly what happened around ancient fires. It does show why a good story can be much more than spare-time noise.
+
+Our modern human reaches for the next episode. Our ancient audience asks for another story. Bedtime has suffered a setback.
+
+Sources: [S5: Oktaviana et al. (2024) — Narrative cave art in Indonesia by 51,200 years ago](https://doi.org/10.1038/s41586-024-07541-7); [S6: Smith et al. (2017) — Cooperation and the evolution of hunter-gatherer storytelling](https://www.nature.com/articles/s41467-017-02036-8)
+
+## 07 · What really changed?
+
+So, are we simply the same people with better charging cables? That would be much too easy.
+
+Lives varied across places and periods. Medicine, food supplies, institutions, and technology transform what a day can be. A village conversation and a platform reaching millions are different environments.
+
+Our evidence also has different strengths. A bead is an object. Its meaning is an interpretation. A study of a living community is a comparison, not a time machine.
+
+But put the clues beside ordinary life, and the people in the distant past become easier to imagine. Preparing a meal. Choosing an ornament. Dealing with discomfort. Following other people's lives. Paying attention to a story.
+
+## 08 · You are doing it now
+
+And there is the habit I promised at the beginning. You stayed to find out what happened to another human.
+
+He was invented. His dinner review never happened. His necklace crisis is our joke. But the food remains, beads, tooth marks, and cave painting are real kinds of evidence.
+
+Fifty thousand years is an enormous distance. A small object or an ordinary action can make it feel unexpectedly close.
+
+Our two humans finally settle down. The modern one puts his phone away. The ancient one gets comfortable by the fire.
+
+Then, from just out of frame, somebody says: did you hear? Both heads turn.
+
+Of course they do.

@@ -1,0 +1,37 @@
+{
+  "archive_name": "Ancient_Bergman_Habits_Production_Kit.zip",
+  "size_bytes": 197982197,
+  "sha256": "042f0aa5b10986803d743b51b0b7b597926b5fdffd1cc4ecc8e796ad5a178d93",
+  "parts": [
+    {
+      "name": "parts/001.bin",
+      "size_bytes": 33554432,
+      "sha256": "66eed9df6b40c80c31bf9e50171c039ace91f97d093c8ceb7005da201d8b7c33"
+    },
+    {
+      "name": "parts/002.bin",
+      "size_bytes": 33554432,
+      "sha256": "2c1aa0d3ac998f81c4270e8afe5e40353a3428c5713d32f984c9e78ffe4467fb"
+    },
+    {
+      "name": "parts/003.bin",
+      "size_bytes": 33554432,
+      "sha256": "10b4564bf5739e7ceb61ca70a0cee9e7a7b599fa435ca81a401be61188bb70c5"
+    },
+    {
+      "name": "parts/004.bin",
+      "size_bytes": 33554432,
+      "sha256": "b198f7870e4a75214c16c3d7e4c0162efe66a4e0731caaa99b7d8c69563d9bc0"
+    },
+    {
+      "name": "parts/005.bin",
+      "size_bytes": 33554432,
+      "sha256": "4688db1e5dda0973ce6a419b380244d8da33045c1bd8ca17fd4783ad8bf47eb6"
+    },
+    {
+      "name": "parts/006.bin",
+      "size_bytes": 30210037,
+      "sha256": "6172ec47ead07a0a1630f10b46c924e7d4d305615be241bc8bee57d1a9bbf7e0"
+    }
+  ]
+}
